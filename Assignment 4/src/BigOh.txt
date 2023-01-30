@@ -1,0 +1,6 @@
+Name: // Elias Magdaleno
+
+Part i) O(n)
+Part ii) log(n)
+Part iii) O(n^2)
+Part iv) O(n^3)
